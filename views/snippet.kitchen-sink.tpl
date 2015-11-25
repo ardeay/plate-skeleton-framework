@@ -6,8 +6,8 @@
           <a class="button button-primary" href="http://getskeleton.com">Try Skeleton</a>
         </div>
         <div class="one-half column phones">
-          <img class="phone" src="images/iphone.png">
-          <img class="phone" src="images/iphone.png">
+          <img class="phone" src="http://getskeleton.com/examples/landing/images/iphone.png">
+          <img class="phone" src="http://getskeleton.com/examples/landing/images/iphone.png">
         </div>
       </div>
     </div>
@@ -49,10 +49,10 @@
       <p class="section-description">Skeleton images sit easily in grid with .u-max-full-width class. I suggest exploring solution to serving different images based on device size.</p>
       <div class="row">
         <div class="one-half column category">
-          <img class="u-max-full-width" src="images/placeholder.png">
+          <img class="u-max-full-width" src="http://getskeleton.com/examples/landing/images/placeholder.png">
         </div>
         <div class="one-half column category">
-          <img class="u-max-full-width" src="images/placeholder.png">
+          <img class="u-max-full-width" src="http://getskeleton.com/examples/landing/images/placeholder.png">
         </div>
       </div>
     </div>
